@@ -1,11 +1,11 @@
 # 4D Perception
 
-[](output/merged_mot_to_view.gif)
+![](output/merged_mot_to_view.gif)
 
 In this project, I learned how to do **3D object detection, tracking, and visualization** using LiDAR and camera data.  
 The goal is to understand 3D perception pipelines and implement simplified but practical solutions inspired by SOTA methods.
 
-PLease download [this folder](https://drive.google.com/file/d/1xgk9vJLT4d4Z1E17_risiuKUTW4NOx9j/view?usp=sharing) and put it inside the root project directory 
+Please download [this folder](https://drive.google.com/file/d/1xgk9vJLT4d4Z1E17_risiuKUTW4NOx9j/view?usp=sharing) and put it inside the root project directory 
 
 ---
 
