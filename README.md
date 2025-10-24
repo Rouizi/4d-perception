@@ -32,6 +32,6 @@ Please download [this folder](https://drive.google.com/file/d/1xgk9vJLT4d4Z1E17_
 
 3. **3D Visualization & Full Tracking Pipeline**  
    - Load a LiDAR visualizer  
-   - Implement a 3D Kalman filter tracker based on state-of-the-art research paper  
+   - Implement a 3D Kalman filter tracker based on a state-of-the-art research paper  
    - Project tracked objects onto video frames  
    - Visualize point clouds and 3D tracks in real-time  
